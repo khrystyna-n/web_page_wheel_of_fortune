@@ -1,0 +1,880 @@
+[  
+    {
+        "id": "Algeria",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/dz.2be2fee6.svg",
+        "code": "+213",
+        "country": "Argélia",
+        "placeholder": "551 23 45 67"
+    },
+    {
+        "id": "Azerbaijan",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/az.84126238.svg",
+        "code": "+994",
+        "country": "Azerbaijão",
+        "placeholder": "40 123 45 67"
+    },{
+        "id": "Uzbekistan",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/uz.ba79d297.svg",
+        "code": "+998",
+        "country": "Uzbequistão",
+        "placeholder": "91 234 56 78"
+    },{
+        "id": "Ukraine",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ua.2dd397cb.svg",
+        "code": "+380",
+        "country": "Ucrânia",
+        "placeholder": "50 123 4567"
+    },{
+        "id": "Kazakhstan",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/kz.f528d170.svg",
+        "code": "+7",
+        "country": "Kazakhstan",
+        "placeholder": "771 000 9998"
+    },{
+        "id": "Belarus",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/by.da99aaa5.svg",
+        "code": "+375",
+        "country": "Bielorrússia",
+        "placeholder": "29 491 19 11"
+    },{
+        "id": "Cuba",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/cu.1452c504.svg",
+        "code": "+53",
+        "country": "Cuba",
+        "placeholder": "5 1234567"
+    },{
+        "id": "Niger ",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ne.64f5ff14.svg",
+        "code": "+227",
+        "country": "Niger ",
+        "placeholder": "93 12 34 56"
+    },{
+        "id": "Eritreia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/er.ff62e272.svg",
+        "code": "+291",
+        "country": "Eritreia",
+        "placeholder": "7 123 456"
+    },{
+        "id": "Paraguay",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/py.b19bb0ae.svg",
+        "code": "+595",
+        "country": "Paraguay",
+        "placeholder": "961 456789"
+    },{
+        "id": "Guadeloupe",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/gp.30b1d26c.svg",
+        "code": "+590",
+        "country": "Guadeloupe",
+        "placeholder": "690 00 12 34"
+    },{
+        "id": "Rwanda",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/rw.02a8a07e.svg",
+        "code": "+250",
+        "country": "Rwanda",
+        "placeholder": "720 123 456"
+    },{
+        "id": "Hungary",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/hu.7ae2a1f0.svg",
+        "code": "+36",
+        "country": "Hungary",
+        "placeholder": "20 123 4567"
+    },{
+        "id": "Somalia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/so.34b037a7.svg",
+        "code": "+252",
+        "country": "Somalia",
+        "placeholder": "7 11234567"
+    },{
+        "id": "Taiwan",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/tw.a72a85cb.svg",
+        "code": "+886",
+        "country": "Taiwan",
+        "placeholder": "912 345 678"
+    },{
+        "id": "Liberia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/lr.74dcec3f.svg",
+        "code": "+231",
+        "country": "Liberia",
+        "placeholder": "77 012 3456"
+    },{
+        "id": "Brunei",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bn.5fd8c652.svg",
+        "code": "+673",
+        "country": "Brunei",
+        "placeholder": "712 3456"
+    },{
+        "id": "Uganda",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ug.983dd591.svg",
+        "code": "+256",
+        "country": "Uganda",
+        "placeholder": "712 345678"
+    },{
+        "id": "Mali",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ml.d11c3063.svg",
+        "code": "+223",
+        "country": "Mali",
+        "placeholder": "65 01 23 45"
+    },{
+        "id": "Chad",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/td.ad4b4469.svg",
+        "code": "+235",
+        "country": "Chad",
+        "placeholder": "65 01 23 45"
+    },{
+        "id": "Morocco",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ma.3b79aff1.svg",
+        "code": "+212",
+        "country": "Morocco",
+        "placeholder": "650 123456"
+    },{
+        "id": "Namibia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/na.27bc2313.svg",
+        "code": "+264",
+        "country": "Namibia",
+        "placeholder": "81 123 4567"
+    },{
+        "id": "Dominican Republic",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/do.64a9810e.svg",
+        "code": "+1809",
+        "country": "Dominican Republic",
+        "placeholder": "234 5678"
+    },{
+        "id": "Oman",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/om.09e65f88.svg",
+        "code": "+968",
+        "country": "Oman",
+        "placeholder": "9212 3456"
+    },{
+        "id": "Finland",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/fi.eb793b74.svg",
+        "code": "+358",
+        "country": "Finland",
+        "placeholder": "41 2345678"
+    },{
+        "id": "Poland",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/pl.9400273d.svg",
+        "code": "+48",
+        "country": "Poland",
+        "placeholder": "123 456 789"
+    },{
+        "id": "Guinea-Bissua",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/gw.f647ba54.svg",
+        "code": "+245",
+        "country": "Guinea-Bissua",
+        "placeholder": "955 012 345"
+    },{
+        "id": "Turkmenistan",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/tm.44298648.svg",
+        "code": "+993",
+        "country": "Turkmenistan",
+        "placeholder": "66 123456"
+    },{
+        "id": "Senegal",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/sn.a03bc309.svg",
+        "code": "+221",
+        "country": "Senegal",
+        "placeholder": "70 123 45 67"
+    },{
+        "id": "Iran",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ir.c945dfdf.svg",
+        "code": "+98",
+        "country": "Iran",
+        "placeholder": "9123 45 6789"
+    },{
+        "id": "Sri Lanka",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/lk.93412c6f.svg",
+        "code": "+94",
+        "country": "Sri Lanka",
+        "placeholder": "71 234 5678"
+    },{
+        "id": "South Korea",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/kr.9406f22f.svg",
+        "code": "+82",
+        "country": "South Korea",
+        "placeholder": "10 2000 000"
+    },{
+        "id": "Bhutan",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bt.1372873e.svg",
+        "code": "+975",
+        "country": "Bhutan",
+        "placeholder": "17 12 34 56"
+    },{
+        "id": "Timor-Leste",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/tl.c7a146dc.svg",
+        "code": "+670",
+        "country": "Timor-Leste",
+        "placeholder": "1234567"
+    },{
+        "id": "Macedonia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/mk.c370fe88.svg",
+        "code": "+389",
+        "country": "Macedonia",
+        "placeholder": "72 345 678"
+    },{
+        "id": "Cape Verde",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/cv.1ddd3424.svg",
+        "code": "+238",
+        "country": "Cape Verde",
+        "placeholder": "991 12 34"
+    },{
+        "id": "Venezuela",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ve.125ee924.svg",
+        "code": "+58",
+        "country": "Venezuela",
+        "placeholder": "412 1234567"
+    },{
+        "id": "Mauritius",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/mu.d7d71f03.svg",
+        "code": "+230",
+        "country": "Mauritius",
+        "placeholder": "5251 2345"
+    },{
+        "id": "New Zealand",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/nz.37be84f4.svg",
+        "code": "+64",
+        "country": "New Zealand",
+        "placeholder": "21 123 4567"
+    },{
+        "id": "El Salvador",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/sv.f4b33140.svg",
+        "code": "+503",
+        "country": "El Salvador",
+        "placeholder": "7012 3456"
+    },{
+        "id": "Panama",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/pa.69b3b905.svg",
+        "code": "+507",
+        "country": "Panama",
+        "placeholder": "6123 4567"
+    },{
+        "id": "Gambia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/gm.65c86e0a.svg",
+        "code": "+220",
+        "country": "Gambia",
+        "placeholder": "301 2345"
+    },{
+        "id": "Qatar",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/qa.c08921ec.svg",
+        "code": "+974",
+        "country": "Qatar",
+        "placeholder": "3312 3456"
+    },{
+        "id": "Honduras",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/hn.ebef2cd5.svg",
+        "code": "+504",
+        "country": "Honduras",
+        "placeholder": "9123 4567"
+    },{
+        "id": "Singapore",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/sg.9751741f.svg",
+        "code": "+65",
+        "country": "Singapore",
+        "placeholder": "8123 4567"
+    },{
+        "id": "Japan",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/jp.980c12c5.svg",
+        "code": "+81",
+        "country": "Japan",
+        "placeholder": "90 1234 5678"
+    },{
+        "id": "Swaziland",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/sz.5d494168.svg",
+        "code": "+268",
+        "country": "Swazilan",
+        "placeholder": "7612 3456"
+    },{
+        "id": "Lebanon",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/lb.940cc75a.svg",
+        "code": "+961",
+        "country": "Lebanon",
+        "placeholder": "71 123 456"
+    },{
+        "id": "Botswana",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bw.0acc600b.svg",
+        "code": "+267",
+        "country": "Botswana",
+        "placeholder": "71 123 456"
+    },{
+        "id": "Tunisia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/tn.8b09464a.svg",
+        "code": "+216",
+        "country": "Tunisia",
+        "placeholder": "200 123 456"
+    },{
+        "id": "Malaysia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/my.848fbf91.svg",
+        "code": "+60",
+        "country": "Malaysia",
+        "placeholder": "12 345 6789"
+    },{
+        "id": "Canada",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ca.102b45b2.svg",
+        "code": "+1",
+        "country": "Canada",
+        "placeholder": "506 234 5678"
+    },{
+        "id": "Zambia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/zm.a303f51a.svg",
+        "code": "+260",
+        "country": "Zambia",
+        "placeholder": "95 5123456"
+    },{
+        "id": "Mongolia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/mn.291814d6.svg",
+        "code": "+976",
+        "country": "Mongolia",
+        "placeholder": "8812 3456"
+    },{
+        "id": "Costa Rica",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/cr.ebed4600.svg",
+        "code": "+506",
+        "country": "Costa Rica",
+        "placeholder": "8312 3456"
+    },{
+        "id": "Czech Republic",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/cz.1b3452b8.svg",
+        "code": "+420",
+        "country": "Czech Republic",
+        "placeholder": "123 456 789"
+    },{
+        "id": "Nigeria",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ng.caaf4120.svg",
+        "code": "+234",
+        "country": "Nigeria",
+        "placeholder": "802 123 4567"
+    },{
+        "id": "Ethiopia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/et.061591dd.svg",
+        "code": "+251",
+        "country": "Ethiopia",
+        "placeholder": "91 123 4567"
+    },{
+        "id": "Peru",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/pe.83c26459.svg",
+        "code": "+51",
+        "country": "Peru",
+        "placeholder": "912345678"
+    },{
+        "id": "Guatemala",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/gt.3d87ccc4.svg",
+        "code": "+502",
+        "country": "Guatemala",
+        "placeholder": "5123 4567"
+    },{
+        "id": "India",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/in.e626d1bb.svg",
+        "code": "+91",
+        "country": "India",
+        "placeholder": "12345 12345"
+    },{
+        "id": "South Africa",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/za.3c71a2a2.svg",
+        "code": "+27",
+        "country": "South Africa",
+        "placeholder": "71 123 4567"
+    },{
+        "id": "Kenya",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ke.9ea89091.svg",
+        "code": "+254",
+        "country": "Kenya",
+        "placeholder": "412 123456"
+    },{
+        "id": "Tanzania",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/tz.20af2614.svg",
+        "code": "+255",
+        "country": "Tanzania",
+        "placeholder": "712 345 678"
+    },{
+        "id": "Libya",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ly.9d867c1b.svg",
+        "code": "+218",
+        "country": "Libya",
+        "placeholder": "91 2345678"
+    },{
+        "id": "Burkina Faso",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bf.6fc31e16.svg",
+        "code": "+226",
+        "country": "Burkina Faso",
+        "placeholder": "70 12 34 56"
+    },{
+        "id": "United Arab Emirates",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ae.23c17470.svg",
+        "code": "+971",
+        "country": "United Arab Emirates",
+        "placeholder": "50 123 4567"
+    },{
+        "id": "Martinique",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/mq.09c19f65.svg",
+        "code": "+596",
+        "country": "Martinique",
+        "placeholder": "696 20 12 34"
+    },{
+        "id": "Chile",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/cl.303f56a6.svg",
+        "code": "+56",
+        "country": "Chile",
+        "placeholder": "2 2123 4567"
+    },{
+        "id": "Mozambique",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/mz.dcf8977e.svg",
+        "code": "+258",
+        "country": "Mozambique",
+        "placeholder": "82 123 4567"
+    },{
+        "id": "Nepal",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/np.f7885aa6.svg",
+        "code": "+977",
+        "country": "Nepal",
+        "placeholder": "984 1234567"
+    },{
+        "id": "Ecuador",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ec.7be6ca13.svg",
+        "code": "+593",
+        "country": "Ecuador",
+        "placeholder": "99 123 4567"
+    },{
+        "id": "Pakistan",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/pk.0e17f31b.svg",
+        "code": "+92",
+        "country": "Pakistan",
+        "placeholder": "301 2345678"
+    },{
+        "id": "French Guiana",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/gf.74219f32.svg",
+        "code": "+594",
+        "country": "French Guiana",
+        "placeholder": "694 20 12 34"
+    },{
+        "id": "Portugal",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/pt.5697f297.svg",
+        "code": "+351",
+        "country": "Portugal",
+        "placeholder": "912 345 678"
+    },{
+        "id": "Guyana",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/gy.43c003e2.svg",
+        "code": "+592",
+        "country": "Guyana",
+        "placeholder": "609 1234"
+    },{
+        "id": "Serbia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/rs.3b67d7be.svg",
+        "code": "+381",
+        "country": "Serbia",
+        "placeholder": "60 1234567"
+    },{
+        "id": "Iraq",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/iq.e549011e.svg",
+        "code": "+964",
+        "country": "Iraq",
+        "placeholder": "791 234 5678"
+    },{
+        "id": "Sudan",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/sd.cb3da007.svg",
+        "code": "+249",
+        "country": "Sudan",
+        "placeholder": "91 123 1234"
+    },{
+        "id": "Kuwait",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/kw.a3a60802.svg",
+        "code": "+965",
+        "country": "Kuwait",
+        "placeholder": "500 12345"
+    },{
+        "id": "Bolivia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bo.ee5938f0.svg",
+        "code": "+591",
+        "country": "Bolivia",
+        "placeholder": "71234567"
+    },{
+        "id": "Togo",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/tg.4abbb528.svg",
+        "code": "+228",
+        "country": "Togo",
+        "placeholder": "90 11 23 45"
+    },{
+        "id": "Madagascar",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/mg.5bdc14fe.svg",
+        "code": "+261",
+        "country": "Madagascar",
+        "placeholder": "32 12 345 67"
+    },{
+        "id": "Cambodia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/kh.695ec7a1.svg",
+        "code": "+855",
+        "country": "Cambodia",
+        "placeholder": "91 234 567"
+    },{
+        "id": "Vietnam",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/vn.25540177.svg",
+        "code": "+84",
+        "country": "Vietnam",
+        "placeholder": "91 234 56 78"
+    },{
+        "id": "Mayotte",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/yt.bf9663ae.svg",
+        "code": "+262",
+        "country": "Mayotte",
+        "placeholder": "12 3456"
+    },{
+        "id": "Congo - Brazzaville",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/so.34b037a7.svg",
+        "code": "+252",
+        "country": "Congo - Brazaville",
+        "placeholder": "7 11234567"
+    },{
+        "id": "Nicaragua",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ni.52cfeebf.svg",
+        "code": "+505",
+        "country": "Nicaragua",
+        "placeholder": "8123 4567"
+    },{
+        "id": "Equatorial Guinea",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/gq.89421f59.svg",
+        "code": "+240",
+        "country": "Equatorial Guinea",
+        "placeholder": "222 123 456"
+    },{
+        "id": "Papua New Guinea",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/pg.9ebf0bb3.svg",
+        "code": "+675",
+        "country": "Papua New Guinea",
+        "placeholder": "7012 3456"
+    },{
+        "id": "Chana",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/gh.286f4413.svg",
+        "code": "+233",
+        "country": "Chana",
+        "placeholder": "23 123 4567"
+    },{
+        "id": "Reunion",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/re.7e8577e9.svg",
+        "code": "+262",
+        "country": "Reunion",
+        "placeholder": "692 12 34 56"
+    },{
+        "id": "Hong Kong SAR China",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/hk.5a112207.svg",
+        "code": "+852",
+        "country": "Hong Kong SAR China",
+        "placeholder": "5123 4567"
+    },{
+        "id": "Solomon Islands",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/sb.00988e02.svg",
+        "code": "+677",
+        "country": "Solomon Islands",
+        "placeholder": "1234567"
+    },{
+        "id": "Jordan",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/jo.e678dae8.svg",
+        "code": "+962",
+        "country": "Jordan",
+        "placeholder": "7 9012 3456"
+    },{
+        "id": "Syria",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/sy.9d13beb5.svg",
+        "code": "+963",
+        "country": "Syria",
+        "placeholder": "944 567 890"
+    },{
+        "id": "Lesotho",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ls.cddead61.svg",
+        "code": "+266",
+        "country": "Lesotho",
+        "placeholder": "5012 3456"
+    },{
+        "id": "Brazil",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/br.b3663866.svg",
+        "code": "+55",
+        "country": "Brazil",
+        "placeholder": "11 96123 4567"
+    },{
+        "id": "Turkey",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/tr.c3d773f3.svg",
+        "code": "+90",
+        "country": "Turkey",
+        "placeholder": "501 234 56 78"
+    },{
+        "id": "Maldives",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/mv.91b2c27c.svg",
+        "code": "+960",
+        "country": "Maldvies",
+        "placeholder": "771 2345"
+    },{
+        "id": "Central African Republic",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/cf.eb50c5ec.svg",
+        "code": "+236",
+        "country": "Central Publical Republac",
+        "placeholder": "70 01 23 45"
+    },{
+        "id": "Zimbabwe",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/cf.eb50c5ec.svg",
+        "code": "+236",
+        "country": "Zimbabwe",
+        "placeholder": "70 01 23 45"
+    },{
+        "id": "Montenegro",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/me.4c8b84af.svg",
+        "code": "+382",
+        "country": "Montenegro",
+        "placeholder": "67 622 901"
+    },{
+        "id": "Myanbam (Burma)",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/mm.7068544f.svg",
+        "code": "+95",
+        "country": "Myanbar (Burma)",
+        "placeholder": "12 345 6789"
+    },{
+        "id": "Djibouti",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/dj.278a5a5f.svg",
+        "code": "+253",
+        "country": "Djibouti",
+        "placeholder": "77 83 10 01"
+    },{
+        "id": "Norway",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/no.266dbd6f.svg",
+        "code": "+47",
+        "country": "Norway",
+        "placeholder": "406 12 345"
+    },{
+        "id": "Fiji",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/fj.55dd1c6e.svg",
+        "code": "+679",
+        "country": "Fiji",
+        "placeholder": "701 2345"
+    },{
+        "id": "Philippines",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ph.374bb0d6.svg",
+        "code": "+63",
+        "country": "Philippines",
+        "placeholder": "905 123 4567"
+    },{
+        "id": "Somalia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/so.34b037a7.svg",
+        "code": "+252",
+        "country": "Somalia",
+        "placeholder": "7 11234567"
+    },{
+        "id": "Guinea",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/gn.7bf7a35a.svg",
+        "code": "+224",
+        "country": "Guinea",
+        "placeholder": "601 12 34 56"
+    },{
+        "id": "Saudi Arabia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/sa.dbdc272c.svg",
+        "code": "+966",
+        "country": "Saudi Arabia",
+        "placeholder": "21 234 5678"
+    },{
+        "id": "Indonesia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/id.0b7fa609.svg",
+        "code": "+62",
+        "country": "Indonesia",
+        "placeholder": "123456789"
+    },{
+        "id": "Jamaica",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/jm.74ccffca.svg",
+        "code": "+1876",
+        "country": "Jamaica",
+        "placeholder": "210 1234"
+    },{
+        "id": "Suriname",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/sr.4ee19081.svg",
+        "code": "+597",
+        "country": "Somalia",
+        "placeholder": "741 2345"
+    },{
+        "id": "Laos",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/la.80cf2b55.svg",
+        "code": "+856",
+        "country": "Laos",
+        "placeholder": "12345678"
+    },{
+        "id": "Bosnia & Herzegovina",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ba.d1e732dc.svg",
+        "code": "+387",
+        "country": "Bosnia & Herzegovina",
+        "placeholder": "61 123 456"
+    },{
+        "id": "Thinidad & Tobago",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/tt.4252a958.svg",
+        "code": "+1868",
+        "country": "Thinidad & Tobago",
+        "placeholder": "291 1234"
+    },{
+        "id": "Malawi",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/mw.6807c4fd.svg",
+        "code": "+265",
+        "country": "Malawi",
+        "placeholder": "991 23 45 67"
+    },{
+        "id": "Cameroon",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/cm.0dcbc4f1.svg",
+        "code": "+237",
+        "country": "Cameroon",
+        "placeholder": "6 71 23 45 67"
+    },{
+        "id": "Yemen",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ye.2289a38e.svg",
+        "code": "+967",
+        "country": "Yemen",
+        "placeholder": "712 345 678"
+    },{
+        "id": "Mexico",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/mx.05c8d697.svg",
+        "code": "+52",
+        "country": "Mexico",
+        "placeholder": "222 123 4567"
+    },{
+        "id": "Congo",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/cd.d44809aa.svg",
+        "code": "+243",
+        "country": "Congo",
+        "placeholder": "991 234 567"
+    },{
+        "id": "New Caledonia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/nc.046cebb8.svg",
+        "code": "+687",
+        "country": "New Caledonia",
+        "placeholder": "123 456"
+    },{
+        "id": "Egypt",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/eg.c6ff8d6c.svg",
+        "code": "+20",
+        "country": "Egypt",
+        "placeholder": "100 123 4567"
+    },{
+        "id": "Palestinian Territories",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ps.451101ef.svg",
+        "code": "+970",
+        "country": "Palestinian Territories",
+        "placeholder": "599 123 456"
+    },{
+        "id": "Gabon",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ga.dec83263.svg",
+        "code": "+241",
+        "country": "Gabon",
+        "placeholder": "076 031 23"
+    },{
+        "id": "Puerto Rico",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/pr.836bcb81.svg",
+        "code": "+1787",
+        "country": "Puerto Rico",
+        "placeholder": "234 5678"
+    },{
+        "id": "Haiti",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ht.663996cf.svg",
+        "code": "+509",
+        "country": "Haiti",
+        "placeholder": "34 10 1234"
+    },{
+        "id": "Sierra Leone",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/sl.f1772cd4.svg",
+        "code": "+232",
+        "country": "Sierra Leone",
+        "placeholder": "24 123456"
+    },{
+        "id": "Afeganistão",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/af.867627c5.svg",
+        "code": "+93",
+        "country": "Afeganistão",
+        "placeholder": "70 123 4567"
+    },{
+        "id": "Albânia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/al.090568ab.svg",
+        "code": "+355",
+        "country": "Albânia",
+        "placeholder": "693 123 456"
+    },{
+        "id": "Angola",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ao.7ed590a1.svg",
+        "code": "+244",
+        "country": "Angola",
+        "placeholder": "923 123 456"
+    },{
+        "id": "Argentina",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ar.5a7c09af.svg",
+        "code": "+54",
+        "country": "Argentina",
+        "placeholder": "9 11 2345 678"
+    },{
+        "id": "Armênia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/am.36fc7db3.svg",
+        "code": "+374",
+        "country": "Armênia",
+        "placeholder": "77 123456"
+    },{
+        "id": "Austrália",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/au.5b98a120.svg",
+        "code": "+61",
+        "country": "Austrália",
+        "placeholder": "123 456 789"
+    },{
+        "id": "Áustria",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/at.d7b3791e.svg",
+        "code": "+43",
+        "country": "Áustria",
+        "placeholder": "123 456 7891"
+    },{
+        "id": "Bahamas",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bs.a9ddb124.svg",
+        "code": "+1242",
+        "country": "Bahamas",
+        "placeholder": "359 1234"
+    },{
+        "id": "Bahrein",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bh.0cfc5619.svg",
+        "code": "+973",
+        "country": "Bahrein",
+        "placeholder": "3600 1234"
+    },{
+        "id": "Bangladesh",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bd.a3ae69de.svg",
+        "code": "+880",
+        "country": "Bangladesh",
+        "placeholder": "1234567891"
+    },{
+        "id": "Barbados",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bb.17738ccf.svg",
+        "code": "+1246",
+        "country": "Barbados",
+        "placeholder": "250 1234"
+    },{
+        "id": "Belize",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bz.7826f0d5.svg",
+        "code": "+501",
+        "country": "Belize",
+        "placeholder": "622 1234"
+    },{
+        "id": "Benim",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/bj.fb3d1c01.svg",
+        "code": "+229",
+        "country": "Benim",
+        "placeholder": "90 01 12 34"
+    },{
+        "id": "Geórgia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/ge.7ccc29e2.svg",
+        "code": "+995",
+        "country": "Geórgia",
+        "placeholder": "555 12 34 56"
+    },{
+        "id": "Moldávia",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/md.efdfab01.svg",
+        "code": "+373",
+        "country": "Moldávia",
+        "placeholder": "621 12 345"
+    },{
+        "id": "Quirguistão",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/kg.4ad89b3a.svg",
+        "code": "+996",
+        "country": "Quirguistão",
+        "placeholder": "700 123 456"
+    },{
+        "id": "Tajiquiatão",
+        "photo": "https://front.cdn-mb.com/spa-static/1.4.1119/static/media/tj.e97716ca.svg",
+        "code": "+992",
+        "country": "Tajiquiatão",
+        "placeholder": "917 12 3456"
+    }
+]
