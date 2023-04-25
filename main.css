@@ -609,7 +609,7 @@ button:not(:disabled) {
 }
 
 .coins2 {
-  background-image: url("../images/coins2.png");
+  background-image: url("images/coins2.png");
   /* z-index: 10; */
   position: absolute;
   width: 100%;
