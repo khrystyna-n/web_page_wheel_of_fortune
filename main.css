@@ -561,7 +561,7 @@ button:not(:disabled) {
   top: 0;
   z-index: 1000;
   left: 0;
-  height: 100vh;
+  height: 100%;
   overflow: auto;
   text-align: center;
   backdrop-filter: blur(10px);
@@ -773,7 +773,7 @@ button:not(:disabled) {
 }
 
 .input_flag {
-  border-radius: 50%;
+  /* border-radius: 50%; */
   height: 20px;
 }
 
@@ -807,6 +807,13 @@ button:not(:disabled) {
   font-family: Montserrat, sans-serif;
   color: black;
   font-weight: 600;
+}
+
+
+@media screen and (max-width: 480px) {
+  .input_code {
+    font-size: 14px;
+  }
 }
 
 .input_tel {
@@ -856,7 +863,7 @@ button:not(:disabled) {
 }
 
 .flag-icon {
-  border-radius: 50%;
+  /* border-radius: 50%; */
   height: 20px;
 }
 
